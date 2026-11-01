@@ -10,14 +10,11 @@ name:
   pronouns: ''
 postnominals: []
 status:
-  icon: "⚛️"
-role: Physicist · Hardware meets computation
+  icon: "🇿🇼"
+role: Quantum Hardware Engineer
 bio: |
-  Zimbabwean physicist working at the edge of where hardware meets computation.
-  My work spans spintronic and optical devices, quantum-computing software and
-  autonomous experimentation, science and technology policy, and teaching, and
-  I organise communities that make that frontier open to more people. Named one
-  of the STEM Women Impact 50 (Africa Quantum Consortium, IWD 2026).
+  One of the STEM Women Impact 50 (Africa Quantum Consortium, IWD 2026).
+  I have a thing for grand challenges.
 
 affiliations:
   - name: QuantrolOx
@@ -44,11 +41,6 @@ education:
     year: "2025"
     summary: |
       Global Wildcat Scholar 2021 to 2024. Represented the United States at the International Physicists' Tournament (2024 and 2025).
-  - degree: '"Quantum + Chips" Summer School'
-    institution: University of Minnesota
-    year: "2023"
-    summary: |
-      Scholarship programme with Intel, Skywater, 3M, Seagate, Quantinuum and Google as industry collaborators.
 
 skills:
   - name: Quantum & Computation
