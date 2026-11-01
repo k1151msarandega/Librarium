@@ -1,0 +1,75 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Kudzai Musarandega
+  given: Kudzai
+  family: Musarandega
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: "⚛️"
+role: Physicist · Hardware meets computation
+bio: |
+  Zimbabwean physicist working at the edge of where hardware meets computation.
+  My work spans spintronic and optical devices, quantum-computing software and
+  autonomous experimentation, science and technology policy, and teaching, and
+  I organise communities that make that frontier open to more people. Named one
+  of the STEM Women Impact 50 (Africa Quantum Consortium, IWD 2026).
+
+affiliations:
+  - name: QuantrolOx
+    url: https://quantrolox.com/
+  - name: WISER
+    url: https://www.thewiser.org
+
+# Contact is deliberately LinkedIn only. No email or phone on this site.
+links:
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/kudzai-musarandega-5156a521a/
+    label: Connect on LinkedIn
+
+interests:
+  - Quantum devices and autonomous experimentation
+  - Quantum algorithms for physical simulation
+  - Science and technology policy
+  - Curriculum and teaching
+  - Building communities across Africa and the diaspora
+
+education:
+  - degree: BSc Engineering Physics (Electrical & Computer Engineering specialisation)
+    institution: The University of Arizona
+    year: "2025"
+    summary: |
+      Global Wildcat Scholar 2021 to 2024. Represented the United States at the International Physicists' Tournament (2024 and 2025).
+  - degree: '"Quantum + Chips" Summer School'
+    institution: University of Minnesota
+    year: "2023"
+    summary: |
+      Scholarship programme with Intel, Skywater, 3M, Seagate, Quantinuum and Google as industry collaborators.
+
+skills:
+  - name: Quantum & Computation
+    items:
+      - label: Python
+      - label: Qiskit / PennyLane
+      - label: Machine learning
+      - label: C++ and MATLAB
+  - name: Devices & Experiment
+    items:
+      - label: TMR and MOKE testing
+      - label: XRD / XRR characterisation
+      - label: LabVIEW instrument automation
+      - label: Optical design, CAD and FEA
+      - label: Design of Experiments (Taguchi)
+  - name: Policy & Communication
+    items:
+      - label: Policy research and briefs
+      - label: Curriculum writing
+      - label: Public speaking and pitching
+
+languages: []
+awards: []
+experience: []

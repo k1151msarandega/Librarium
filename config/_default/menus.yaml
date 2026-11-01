@@ -1,0 +1,20 @@
+# Navigation links. Weight sets the order.
+main:
+  - name: About
+    url: /
+    weight: 10
+  - name: Work
+    url: projects/
+    weight: 20
+  - name: Writing
+    url: publications/
+    weight: 30
+  - name: Talks & Events
+    url: events/
+    weight: 40
+  - name: Path
+    url: path/
+    weight: 50
+  - name: Recognition
+    url: recognition/
+    weight: 60
